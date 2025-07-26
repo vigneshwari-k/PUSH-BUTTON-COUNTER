@@ -34,3 +34,4 @@ This project serves as an ideal introductory-level embedded systems task, combin
 
 output
 
+<img width="591" height="343" alt="Image" src="https://github.com/user-attachments/assets/d54995f7-770c-4d27-8ce6-e0f1a6f9738d" />
